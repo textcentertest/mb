@@ -1,0 +1,34 @@
+h1 {
+color: #66FCF1;
+font-variant: small-caps;
+text-align: center;
+}
+
+h2 {
+color:#45A29E;
+font-variant: small-caps;
+text-align: center;
+}
+
+div {
+color: #C5C6C7;
+font-variant: small-caps;
+text-align: center;
+}
+
+p {
+color: #C5C6C7;
+font-variant: small-caps;
+text-align: center;
+}
+
+ul {
+color: #C5C6C7;
+font-variant: small-caps;
+text-align: left;
+}
+
+body{
+    background: #0B0C10;
+}
+
